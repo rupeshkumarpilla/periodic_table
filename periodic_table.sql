@@ -39,3 +39,4 @@ DELETE FROM properties WHERE atomic_number = 1000;
 DELETE FROM elements WHERE atomic_number = 1000;
 ALTER TABLE properties DROP COLUMN type;
 -- comment
+-- another
