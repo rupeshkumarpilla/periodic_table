@@ -38,3 +38,4 @@ VALUES(10, 20.18, -248.6, -246.1, (SELECT type_id FROM types WHERE type = 'nonme
 DELETE FROM properties WHERE atomic_number = 1000;
 DELETE FROM elements WHERE atomic_number = 1000;
 ALTER TABLE properties DROP COLUMN type;
+-- comment
